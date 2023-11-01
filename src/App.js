@@ -69,13 +69,3 @@ function App() {
 }
 
 export default App;
-
-
-//  <div className="flex">
-// {Array.from({ length: 5 }, (_, index) => (
-//   <i
-//     key={index}
-//     className={`fa fa-star${index < Math.floor(product.rating) ? ' text-yellow-400' : ' text-gray-400'}`}
-//   ></i>
-// ))}
-// </div> 

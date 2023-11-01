@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 
 const Poster = () => {
     const posterStyles = {
-        backgroundImage: 'url("src\components\poster.jpg")', // Replace with the actual image path
+        backgroundImage: 'url("src\components\poster.jpg")', 
         backgroundSize: 'contain',
         backgroundPosition: 'center',
       };
